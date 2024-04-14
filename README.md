@@ -9,8 +9,8 @@ Space Invaders is a game where the goal is to shoot down all aliens on the board
 The program starts by displaying a start screen with the text "Play Space Invaders" and a points list for shooting down each enemy. Below are the game controls instructions, explaining the actions of each key:
 * „P” starts game,
 * „ESC” turns off game in any moment,
-* „$\leftarrow$” moves player to left,
-* „$\rightarrow$” moves player to right,
+* „←” moves player to left,
+* „→” moves player to right,
 * „Space” makes player shoot an bullet.
 
 ![](./start_screen_look.png)
