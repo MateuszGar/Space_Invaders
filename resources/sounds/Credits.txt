@@ -1,0 +1,13 @@
+Link to sounds I used: 
+https://opengameart.org/content/512-sound-effects-8-bit-style
+
+bullet_sound.wav - sfx_wpn_laser2.wav
+obstacles_explosion_sound.wav - sfx_exp_short_soft4.wav
+enemy_death_sound.wav - sfx_deathscream_alien3.wav
+player_explosion_sound.wav - sfx_exp_various2.wav
+player_death_sound.wav - sfx_deathscream_human4.wav
+
+Link to music I used:
+https://opengameart.org/content/arcade-boss-tracks-8-bitchiptune
+
+background_music.wav - wyver9_Boss_main(8-bit).wav
