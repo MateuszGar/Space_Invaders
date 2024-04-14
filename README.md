@@ -2,6 +2,7 @@
 Space Invaders is a game where the goal is to shoot down all aliens on the board, scoring as many points as possible. The game ends when the player loses all lives.
 
 ![](./sample_board_look.png)
+
 **Sample Board Look**
 
 # 2) Program Description
@@ -13,6 +14,7 @@ The program starts by displaying a start screen with the text "Play Space Invade
 * „Space” makes player shoot an bullet.
 
 ![](./start_screen_look.png)
+
 **Start Screen Look**
 
 After starting the game, enemies and the player appear on the screen. Shooting down all enemies rewards the player with an extra life and starts the next round. A blue enemy appears sporadically during rounds, worth 100 points when shot down.
