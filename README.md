@@ -4,7 +4,7 @@ Space Invaders is a game where the goal is to shoot down all aliens on the board
 ![](./sample_board_look.png)
 **Sample Board Look**
 
-# 2) Opis programu
+# 2) Program Description
 The program starts by displaying a start screen with the text "Play Space Invaders" and a points list for shooting down each enemy. Below are the game controls instructions, explaining the actions of each key:
 * „P” starts game,
 * „ESC” turns off game in any moment,
@@ -20,7 +20,7 @@ Failing to shoot down all enemies causes them to invade the player's territory, 
 * Key „R” resets game,
 * Key „ESC” turns off the game.
 
-# 3 Lista modułów
+# 3) Module List
 Files:
 * code:
     * army.py
@@ -37,10 +37,10 @@ Files:
     * sounds.py
 
 All methods within the classes are documented in comments.
-# 4 Kompilacja
+# 4) Compilation
 To run the game, you need Python compiler version 3.9 installed on your computer. Simply click on the Space_Invaders.exe file found in the code folder to start the game.
 
-# 5 Referencje
+# 5) References
 The project utilizes the following libraries and files:
 * Libraries: 
     * pygame,
